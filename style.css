@@ -1,0 +1,16 @@
+form {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    padding: 15px;
+    margin-top: 20px;
+    outline: none;
+    border: 2px solid #ccc;
+}
+
+.error {
+    border: 2px solid red;
+}
